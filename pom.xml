@@ -10,10 +10,10 @@
   <artifactId>CambioDivisas</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   
-  <properties>
+<properties>
 		<maven.compiler.target>11</maven.compiler.target>
 		<maven.compiler.source>11</maven.compiler.source>
-		
+		<exec.mainClass>dad.javafx.holamundo.Main</exec.mainClass>
 	</properties>
   
   
