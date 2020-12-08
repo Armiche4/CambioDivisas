@@ -13,7 +13,7 @@
 <properties>
 		<maven.compiler.target>11</maven.compiler.target>
 		<maven.compiler.source>11</maven.compiler.source>
-		<exec.mainClass>CambioDivisas.CambioDivisas</exec.mainClass>
+		<exec.mainClass>Divisa.CambioDivisas</exec.mainClass>
 	</properties>
   
   
